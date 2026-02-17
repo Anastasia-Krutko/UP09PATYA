@@ -3,29 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Метрики производительности</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            max-width: 400px;
-            font-family: Arial, sans-serif;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-            font-weight: bold;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        .metric { font-weight: bold; }
-        .target { color: #2196F3; }
-    </style>
+   
 </head>
 <body>
     <h2>Метрики производительности</h2>
