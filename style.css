@@ -966,6 +966,7 @@ main {
     width: 306px;
     height: 181.19px;
     opacity: 1;
+    margin-top: -100px;
 }
 .Pricing_Section-main-block-item2 ul {
     display: flex;
@@ -1323,6 +1324,7 @@ footer {
     padding-left: 32px;
     gap: 64px;
     opacity: 1;
+    margin-top: -130px;
 }
 .footer-container-block1 {
     width: 213.55px;
